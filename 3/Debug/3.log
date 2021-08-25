@@ -1,0 +1,5 @@
+﻿  3main.c
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제\3\3main.c(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제\3\3main.c(115): warning C4716: 'change': 값을 반환해야 합니다.
+  3.vcxproj -> C:\Users\pc\Desktop\대학자료\2학년\1학기\자료구조\자료구조 과제\Debug\3.exe
